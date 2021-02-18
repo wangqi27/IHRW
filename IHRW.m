@@ -34,3 +34,4 @@ for ii=1:cc
     scores(ii,ii,:)=0;
     scores(:,ii,ii)=0;
 end
+end
